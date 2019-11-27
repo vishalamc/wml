@@ -1,0 +1,16 @@
+<wml>
+
+<card id="one" title="First Card">
+<p>
+This is the first card in the deck
+
+</p>
+</card>
+
+<card id="two" title="Second Card">
+<p>
+Ths is the second card in the deck
+</p>
+</card>
+
+</wml>
