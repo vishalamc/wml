@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="C1" title=”Learning WML!">
+<p mode=”nowrap”>
+Select:<br/>
+<a href="#jokes">Jokes</a><br/>
+<a href="#star">Star</a><br/>
+<a href="#target">Target</a><br/>
+</p>
+</card>
+<card id="jokes" title="Learning WML">
+<do type="accept">
+<prev/>
+</do>
+<p>Jokes:
+<img localsrc="hound" alt="prev" src="smile.wbmp"/>
+</p>
+</card>
+<card id="star" title="Learning WML">
+<do type="accept">
+<prev/>
+</do>
+<p>Star:
+<img localsrc="star2" alt="prev" src="star.gif"/>
+</p>
+</card>
+<card id="target" title="Learning WML">
+<do type="accept">
+LOVELY PROFESSIONAL UNIVERSITY
+WAP & WML
+Notes <prev/>
+</do>
+<p>Target:
+<img localsrc="circleslash" alt="prev" src="target.gif"/>
+</p>
+</card>
+</wml>

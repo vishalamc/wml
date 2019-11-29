@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+<wml>
+<card title="Frist card" id="card1">
+<br />
+<table border="5" height="150" align="CC" width="1000">
+  <tr>
+    <td><b><i>Enter the url</i></b></td>
+    <td><input type="text" name="web"></input></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+	<anchor>
+	     <go href="#card2"><i>Click to visit the url</i></go>
+		</anchor>
+	</td>
+  </tr>
+</table>
+</card>
+<card id="card2" title="Second card">
+<anchor>
+<go href="https://$(web)">click</go></anchor>
+</card>
+</wml>

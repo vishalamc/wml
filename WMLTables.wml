@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"http://www.wapforum.org/DTD/wml12.dtd">
+
+<wml>
+
+<card id="tablecard1" title="WML Tables">
+<p>First Table
+<table border="1" columns="3" align="LCR">
+	<tr>
+	  <td>Col 1</td>
+	  <td>Col 2</td>
+	  <td>Col 3</td>
+	</tr>
+
+	<tr>
+	  <td>A</td>
+	  <td>B</td>
+	  <td>C</td>
+	</tr>
+
+	<tr>
+	  <td>D</td>
+	  <td>E</td>
+	  <td>F</td>
+	</tr>
+</table>
+</p>
+</card>
+<card id="tablecard2" title="WML Tables">
+<p>Second Table
+<table border="1" columns="4" align="LCRL">
+	<tr>
+	  <td>Col 1</td>
+	  <td>Col 2</td>
+	  <td>Col 3</td>
+	  <td>Col 4</td>
+	</tr>
+
+	<tr>
+	  <td>A</td>
+	  <td>B</td>
+	  <td>C</td>
+	  <td>D</td>
+	</tr>
+
+	<tr>
+	  <td>D</td>
+	  <td>E</td>
+	  <td>F</td>
+ 	  <td>G</td>
+	</tr>
+
+</table>
+</p>
+</card>
+
+
+</wml>

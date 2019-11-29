@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<wml>
+<card id="card1" title="my example">
+<p>Enter String</p>
+<p>
+<input type="text" name="txtinput" />
+</p>
+<p>
+<input type="text" name="txtinput2" />
+</p>
+<do type="accept" label="submit">
+<go href="insertEx.wmls#check($txtinput,$txtinput2)" />
+
+</do>
+
+
+</card>
+ 
+
+
+
+</wml>

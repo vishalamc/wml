@@ -1,0 +1,21 @@
+extern function cal()
+{
+var num=Lang.parseInt(WMLBrowser.getVar("num"));
+var rev=0;
+var t=num;
+while(num>0)
+{
+rev=rev*10;
+rev=rev+(num%10);
+num=num div 10;
+}
+Dialogs.alert(rev);
+if(t==rev)
+{
+Dialogs.alert("the number is palindrome");
+}
+else
+{
+Dialogs.alert("the number is not palindrome");
+}
+}

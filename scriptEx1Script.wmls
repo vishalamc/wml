@@ -1,0 +1,12 @@
+extern function calculateAdd()
+{
+var num1=WMLBrowser.getVar("txtFirst");
+var num2=WMLBrowser.getVar("txtSecond");
+
+var result=Lang.parseInt(num1) +Lang.parseInt(num2);
+
+WMLBrowser.setVar("txtResult",result);
+WMLBrowser.refresh();
+
+
+}

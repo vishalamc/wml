@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+
+<wml>
+  <card id="card1" title="Font Style">
+    <table colums="3" border=1>
+	<tr>
+		<th>University/Board</th>
+		<th>Year</th>
+		<th>C.G.P.A/Percentage</th>
+	</tr>
+	<tr>
+		<td>C.B.S.E</td>
+		<td>2013</td>
+		<td>6.2</td>
+	</tr>
+	<tr>
+		<td>C.B.S.E</td>
+		<td>2015</td>
+		<td>6.5</td>
+	</tr>
+	<tr>
+		<td>C.B.S.E</td>
+		<td>2017(PURSUING)</td>
+		<td>7.4</td>
+	</tr>
+	</table>
+  </card>
+</wml>

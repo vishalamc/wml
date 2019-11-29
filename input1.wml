@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wml>
+<card title=”Selectable List 1">
+<p>
+<select multiple="true">
+<option value="htm">HTML Tutorial</option>
+<option value="xml">XML Tutorial</option>
+<option value="wap">WAP Tutorial</option>
+</select>
+</p>
+<p><input name="name" maxlength="10" format=""/>
+</p>
+</card>
+</wml>

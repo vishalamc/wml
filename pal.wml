@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<wml>
+<card id="one" title="palindrome">
+<p><input type="text" name="num"/></p>
+<p><do type="accept" label="click">
+<go href="pal12.wmls#cal()"/>
+</do></p>
+</card>
+</wml>

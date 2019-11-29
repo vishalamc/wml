@@ -1,0 +1,12 @@
+<wml>
+<card id="card1" title="my first card">
+<anchor>
+click to second card
+<go href="#card2" />
+</anchor>
+</card>
+
+<card id="card2" title="second card">
+welcome
+</card>
+</wml>
