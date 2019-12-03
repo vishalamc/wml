@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<wml>
+  <card id="card1" title="Login Form">
+    <p>
+      <b>Login Form</b><br>
+      User name:<br>
+      <input type="text" name="username"/><br>
+      Enter Password:<br>
+      <input type="password" name="password"/><br>
+     
+<do name="click" type="accept" label="Submit">
+<go href="#card2">
+</do>
+      </p>
+  </card>
+
+<card id="card2" title="welcome">
+Welcome
+</card>
+</wml>
