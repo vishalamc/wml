@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+
+<wml>
+  <card id="tutorial_tc" title="WML Lecture Class">
+    <p>
+      Hello, welcome to our WML Lecture.<br/><br/>
+      Table of Contents:<br/>
+
+      <anchor>
+        <go href="linksEg2.wml#tutorial_ch1"/>
+        Chapter 1: WML Introduction
+      </anchor><br/>
+
+      <anchor>
+        <go href="linksEg2.wml#tutorial_ch2"/>
+        Chapter 2: WML Deck and Card
+      </anchor><br/>
+
+      <anchor>
+        <go href="linksEg2.wml#tutorial_ch3"/>
+        Chapter 3: WML Document Structure
+      </anchor><br/>
+
+      <anchor>
+        <go href="linksEg2.wml#tutorial_ch4"/>
+        Chapter 4: WML Generic Metadata
+      </anchor><br/>
+    </p>
+  </card>
+</wml>
